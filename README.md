@@ -13,5 +13,3 @@ Source: Atil Samancioglu's Ethical Hacking Course </br>
 5)Backdoor: Created a backdoor and a listener. Can send data from victim's system to ours and vice-versa. We can run cmd commands on victim's system from our pc. </br>
 6)Packaging Malacious Files: Can convert any python program into .exe file. Can attach the file to any pdf or image. Can make the python code run on the victim's system, everytime the user restarts the pc. For example: you can make the keylogger application run everytime victim's pc restarts. </br>
 
-Feel free to report errors. Give a star if you liked it. </br>
-Cheers.
